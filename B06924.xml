@@ -1,0 +1,144 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Strange nevvs from Shadvvell, being a true and just relation of the death of Alice Fowler, who had for many years been accounted a witch; together with the manner how she was found dead with both her great toes ty'd together, and laid out on the floor having a blanket flung over her. She being left lock'd up alone by her nurse, with a discovery of what markes or teats were found about her, when she was searched by the neighbours.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06924</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.161.f.2[74]</idno>
+            <idno type="EEBO-CITATION">99887651</idno>
+            <idno type="PROQUEST">ocm99887651</idno>
+            <idno type="VID">182463</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06924)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182463)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A3:5[76])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Strange nevvs from Shadvvell, being a true and just relation of the death of Alice Fowler, who had for many years been accounted a witch; together with the manner how she was found dead with both her great toes ty'd together, and laid out on the floor having a blanket flung over her. She being left lock'd up alone by her nurse, with a discovery of what markes or teats were found about her, when she was searched by the neighbours.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by E. Mallet,</publisher>
+                  <pubPlace>London; :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fowler, Alice --  Early works to 1800.</term>
+               <term>Witchcraft --  England --  London --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:182463:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 131 -->
+            <head>STRANGE NEVVS FROM SHADWELL, Being a TRUE and JUST RELATION of the DEATH of Alice Fowler,</head>
+            <argument>
+               <p>Who had for many years been accounted a Witch; together with the Manner how ſhe was found Dead with both her great Toes Ty'd together, and laid out on the Floor having a <hi>Blanket</hi> flung over her. She being left lock'd up alone by her Nurſe, with a diſ<g ref="char:EOLhyphen"/>covery of what Markes or Teats were found about her, when ſhe was ſearched by the Neighbours.</p>
+            </argument>
+            <p>IN <hi>King-ſtreet</hi> near <hi>Whapping,</hi> the one part of it being in the Pariſh of St. <hi>Paul Shadwel,</hi> and the other in the Pariſh of <hi>Whapping;</hi> late<g ref="char:EOLhyphen"/>ly lived a VViddow VVoman named <hi>Alice Fowler,</hi> ſhe was about the Age of Foreſcore Years, and had always been a malicious ill-natured VVoman and for many years had been reputed a VVitch; ſhe was always obſerved to be muttering and grumbling to her ſelf, and was continually hold<g ref="char:EOLhyphen"/>ing a Diſcourſe as it were within her ſelf, and ſome that knew her would often ſay that at thoſe times ſhe converſed with Familiars or Spirits; ſhe was al<g ref="char:EOLhyphen"/>vvays
+<pb n="2" facs="tcp:182463:2"/>
+               <!-- PDF PAGE 132 -->poor, as it is obſervable that thoſe kind of Peo<g ref="char:EOLhyphen"/>ple are: Her way of living being to ſell <hi>Biſ<g ref="char:EOLhyphen"/>quets</hi> to Baudy houſes, where she generally got Drunk, and being a very Debauched and Leud Woman, and deſpiſed and ſlighted by the Neigh<g ref="char:EOLhyphen"/>bourhood for this her leud and baſe courſe of Life. By ſuch ſmall Shifts, together with the Aſſiſtanae of the Charity of the <hi>Trinity Houſe</hi> into which by rea<g ref="char:EOLhyphen"/>ſon she was Antient and a Seamans Widdow she had of late years gotten; she with much ado lived a ne<g ref="char:EOLhyphen"/>ceſſitous and miſerable life, being continually in want, and at varience with all that knew her.</p>
+            <p>Above twenty years ſince she nurſed a Girl who did always report that she was a Witch, and after she was at a womans Eſtate was ſtill fearful and ap<g ref="char:EOLhyphen"/>prehenſive of her, untill the time of her Death. 'Tis believed the Child had been affrighted by ſome of her Tricks when she was Young, which made her in the greateſt Dread and Terror imaginable of her ever after.</p>
+            <p>About ſixteen Years ſince, <hi>Walter Fowler</hi> her Son was Tranſported to <hi>Barbados,</hi> who always uſed to declare that his Mother was a Witch, that she had bewitched him and ſeveral others, and would relate ſeveral ſtrange Exploits of her doing, and ſaying of<g ref="char:EOLhyphen"/>ten to others that she was there in the Room and tempted him to do ſuch and ſuch Miſchiefs, and would averr that he ſaw her preſent, when no one elſe in the place could ſee anything; this mind he continued in, always accuſing her of bewitching him, until about nine Years ſince that he was hang'd in the <hi>Iſland</hi> of <hi>Barbados,</hi> for Murdering his Wife and <gap reason="illegible: missing" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> king open a Houſe.</p>
+            <p>
+               <pb n="3" facs="tcp:182463:2"/>
+               <!-- PDF PAGE 132 -->
+About ſix weeks ſince, she having lain ſick a con<g ref="char:EOLhyphen"/>ſiderable time in <hi>King-ſtreet</hi> aforeſaid, where she had a mean Room Furnished, and having a poor Neighbour to look after and nurſe her; she ſent her out of an Errand to fetch her ſomething she had oc<g ref="char:EOLhyphen"/>caſion <hi>for,</hi> and the woman going out of Doors, lock'd the Door and took the Key with her, leaving no body there ſave the aforeſaid <hi>Alice</hi> ſick in her Bed, and coming back again, found the ſaid <hi>Alice</hi> ſtripped, dead and cold as <hi>Clay</hi> laying on the Floor on her Back, and having her two great Toes ty'd together, and a <hi>Blanket</hi> flung over her; the poor woman be<g ref="char:EOLhyphen"/>ing very much ſurprized at this, called in the Neigh<g ref="char:EOLhyphen"/>bours who were all in <hi>great</hi> aſtonishment when they ſaw the Corps lying, and had had an account how it was left, and the rather in that there was ſo great a ſtink when they ſtir'd the Corps that they could hardly endure the Room.</p>
+            <p>Several of the Neighbours were ſo curious to ſearch the Corps, and do all of them affirm that they found in the private parts of the Corps five Teats; to wit, four ſmall ones and one very big, and that they were all of them as black as a <hi>Coal.</hi>
+            </p>
+            <p>This conſidered, together with her ill report that ſhe had <hi>when</hi> alive, made all the neighbours refuſe to accompany the Corps to the <hi>Earth,</hi> ſo that the next day she was put into the <hi>Church Coffin,</hi> and by the Bearers without any more company buried in the <hi>Church-Yard</hi> of St. <hi>Paul Shadwell;</hi> ſo that as in her Life she <hi>was</hi> little beloved, at her Funeral she <hi>was</hi> as much ſlighted and ſcorned by every body, no one offering to accompany her Corps, as is before rehearſed.</p>
+            <p>
+               <pb n="4" facs="tcp:182463:3"/>
+               <!-- PDF PAGE 133 -->
+If any one is ſo curious to make a farther enquirie into this Matter, it is ſo <hi>known</hi> a Truth to the inha<g ref="char:EOLhyphen"/>bitants of <hi>King-ſtreet</hi> aforeſaid, that there is not one in the place but can affirm and juſtifie the <hi>whole Re<g ref="char:EOLhyphen"/>lation;</hi> and the Matter is ſo fresh, that it is impoſſi<g ref="char:EOLhyphen"/>ble it should be yet forgotten, it <hi>being</hi> not above ſix Weeks ſince the Woman died, as I am informed by a credible Perſon that <hi>went</hi> to enquire <hi>of</hi> the Buſi<g ref="char:EOLhyphen"/>neſs <hi>amongſt</hi> the <hi>neighbours,</hi> and <hi>was</hi> one that <hi>well knew</hi> the ſaid <hi>Alice Fowler</hi> in her <hi>Life time,</hi> and <hi>from whom</hi> I had this Relation; <hi>which</hi> in <hi>regard of</hi> the <hi>ſtrangeneſs,</hi> I <hi>thought</hi> fit to Publish.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON;</hi> Printed by <hi>E. Mallet,</hi> 1685.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
